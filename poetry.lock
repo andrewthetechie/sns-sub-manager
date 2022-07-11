@@ -771,7 +771,7 @@ flake8 = ">=3.9.1"
 
 [[package]]
 name = "phonenumbers"
-version = "8.12.50"
+version = "8.12.51"
 description = "Python version of Google's common library for parsing, formatting, storing and validating international phone numbers."
 category = "main"
 optional = false
