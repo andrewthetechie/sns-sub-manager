@@ -760,7 +760,7 @@ flake8 = ">=3.9.1"
 
 [[package]]
 name = "phonenumbers"
-version = "8.12.52"
+version = "8.12.53"
 description = "Python version of Google's common library for parsing, formatting, storing and validating international phone numbers."
 category = "main"
 optional = false
@@ -1941,8 +1941,8 @@ pep8-naming = [
     {file = "pep8_naming-0.13.1-py3-none-any.whl", hash = "sha256:f7867c1a464fe769be4f972ef7b79d6df1d9aff1b1f04ecf738d471963d3ab9c"},
 ]
 phonenumbers = [
-    {file = "phonenumbers-8.12.52-py2.py3-none-any.whl", hash = "sha256:d2b5bc70e4fbcf92ddcef6cb81ac8b813157a80b3381f94be777ccadbbe9066f"},
-    {file = "phonenumbers-8.12.52.tar.gz", hash = "sha256:3f3160d1416dbb0be710cc5e914e60d0d3bba00e52edb48af3864efcb8290971"},
+    {file = "phonenumbers-8.12.53-py2.py3-none-any.whl", hash = "sha256:ebad336027f008eed8f2fe571ecb20c574c9c52f68b85ed2e2a2519d92ed318d"},
+    {file = "phonenumbers-8.12.53.tar.gz", hash = "sha256:b945c1410d52448bb560a869e0a77af343422c96da55efbb2a44c5da38df299a"},
 ]
 platformdirs = [
     {file = "platformdirs-2.5.2-py3-none-any.whl", hash = "sha256:027d8e83a2d7de06bbac4e5ef7e023c02b863d7ea5d079477e722bb41ab25788"},
