@@ -1,6 +1,6 @@
 [[package]]
 name = "aiobotocore"
-version = "2.4.0"
+version = "2.4.1"
 description = "Async client for aws services using botocore and aiohttp"
 category = "main"
 optional = false
@@ -1397,8 +1397,8 @@ content-hash = "fc962e8ebab4d91592c628c152f96c094ea3898409f63f3b4ec0b792eeef242b
 
 [metadata.files]
 aiobotocore = [
-    {file = "aiobotocore-2.4.0-py3-none-any.whl", hash = "sha256:6c25381d31b712652bc2f6008683949351c240c56d24b1d8ae252c1034a50f63"},
-    {file = "aiobotocore-2.4.0.tar.gz", hash = "sha256:f9fe0698cc497861bdb54cd16161c804031f758ada9480c35540f20c0c078385"},
+    {file = "aiobotocore-2.4.1-py3-none-any.whl", hash = "sha256:26e0d55d5901f487c3467616c028abb85036ca33a0f88e279770adae6b865c69"},
+    {file = "aiobotocore-2.4.1.tar.gz", hash = "sha256:5c8ee79d1f14273e3f8f3af5c893db889ef163227b178ecacb5aea4547d3b9a7"},
 ]
 aiohttp = [
     {file = "aiohttp-3.8.1-cp310-cp310-macosx_10_9_universal2.whl", hash = "sha256:1ed0b6477896559f17b9eaeb6d38e07f7f9ffe40b9f0f9627ae8b9926ae260a8"},
