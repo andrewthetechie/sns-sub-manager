@@ -774,20 +774,20 @@ files = [
 
 [[package]]
 name = "furo"
-version = "2022.9.15"
+version = "2022.12.7"
 description = "A clean customisable Sphinx documentation theme."
 category = "dev"
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "furo-2022.9.15-py3-none-any.whl", hash = "sha256:9129dead1f75e9fb4fa407612f1d5a0d0320767e6156c925aafe36f362f9b11a"},
-    {file = "furo-2022.9.15.tar.gz", hash = "sha256:4a7ef1c8a3b615171592da4d2ad8a53cc4aacfbe111958890f5f9ff7279066ab"},
+    {file = "furo-2022.12.7-py3-none-any.whl", hash = "sha256:7cb76c12a25ef65db85ab0743df907573d03027a33631f17d267e598ebb191f7"},
+    {file = "furo-2022.12.7.tar.gz", hash = "sha256:d8008f8efbe7587a97ba533c8b2df1f9c21ee9b3e5cad0d27f61193d38b1a986"},
 ]
 
 [package.dependencies]
 beautifulsoup4 = "*"
 pygments = ">=2.7"
-sphinx = ">=4.0,<6.0"
+sphinx = ">=5.0,<7.0"
 sphinx-basic-ng = "*"
 
 [[package]]
