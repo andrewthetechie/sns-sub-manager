@@ -1463,14 +1463,14 @@ flake8 = ">=5.0.0"
 
 [[package]]
 name = "phonenumbers"
-version = "8.13.8"
+version = "8.13.9"
 description = "Python version of Google's common library for parsing, formatting, storing and validating international phone numbers."
 category = "main"
 optional = false
 python-versions = "*"
 files = [
-    {file = "phonenumbers-8.13.8-py2.py3-none-any.whl", hash = "sha256:1b7c75c4a5e62885a0be0a6b073b7e3f4ce6672fd42ab7b4a6b46359c40591d0"},
-    {file = "phonenumbers-8.13.8.tar.gz", hash = "sha256:4ba92a917fb8f6e3fe33fd04b9d84299852ce237289129ee4eda47a043a5c6c4"},
+    {file = "phonenumbers-8.13.9-py2.py3-none-any.whl", hash = "sha256:7706e490154551829110a158a94e3efdbd86b1d8607b7bb1e8d1cf27637db798"},
+    {file = "phonenumbers-8.13.9.tar.gz", hash = "sha256:d2afb9f23b3fb99cd4dfce8b1e9005a66bb546470128a6ab5c1ac353463b2c8b"},
 ]
 
 [[package]]
